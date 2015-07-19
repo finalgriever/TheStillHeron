@@ -1,5 +1,4 @@
 ﻿body {
-    padding-top: 50px;
     padding-bottom: 20px;
 }
 
@@ -21,4 +20,20 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+div.site-banner {
+    margin-top: 0px;
+    margin-bottom: 60px !important;
+    top: 0px;
+    width: 100%;
+}
+
+.site-banner img {
+    height: 180px;
+    width: 100%;
+}
+
+.navbar-fixed-top {
+    top: 180px;
 }
