@@ -24,16 +24,25 @@ textarea {
 
 div.site-banner {
     margin-top: 0px;
-    margin-bottom: 60px !important;
+    margin-bottom: 70px !important;
     top: 0px;
     width: 100%;
 }
 
 .site-banner img {
-    height: 180px;
+    height: 276px;
     width: 100%;
 }
 
+.navbar {
+    background-color: #071D76;
+}
+
 .navbar-fixed-top {
-    top: 180px;
+    top: 276px;
+}
+
+.navbar-nav {
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
