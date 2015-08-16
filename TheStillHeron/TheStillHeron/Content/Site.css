@@ -22,24 +22,43 @@ textarea {
     max-width: 280px;
 }
 
+a {
+    color: black;
+    text-decoration: underline;
+}
+
 div.site-banner {
     margin-top: 0px;
     margin-bottom: 70px !important;
+    margin-left: auto;
+    margin-right: auto;
     top: 0px;
-    width: 100%;
+    width: 60%;
+    position:relative;
+    height: 150px;
 }
 
 .site-banner img {
     height: 150px;
-    margin-left: auto;
-    margin-right: auto;
+    position: absolute;
+    bottom: 0;
+    right: 15%;
     display: block;
+}
+
+.navbar-brand {
+    position: absolute;
+    bottom: 0px;
+    left: 5%;
+    font-family:  'Brush Script MT';
+    font-size: 4em;
+    text-decoration: none;
 }
 
 .navbar {
     background-color: #FFFFFF;
     border-bottom: inset;
-    border-color: #EEEEEE;
+    border-color: aliceblue;
 }
 
 .navbar-fixed-top {
@@ -47,14 +66,64 @@ div.site-banner {
 }
 
 .navbar-nav {
-    margin-left: auto !important;
-    margin-right: auto !important;
+    display: inline-block;
+    float: none;
+}
+
+.navbar-collapse {
+    text-align: center;
+}
+
+.nav-bar-container {
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 body {
     font-family: Arnhem, Helvetica, sans-serif;
 }
 
-h1 {
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        padding-top: 18px;
+    }
+}
+
+div.jumbotron h1,h2 {
     font-family: 'Bodoni MT';
+    text-align: center;
+}
+
+.body-content {
+    border-left: double;
+    border-right: double;
+    border-color: aliceblue;
+}
+
+.jumbotron {
+    background-color: inherit;
+    text-align: justify;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right:25%;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.labeled-row-table td label{
+    text-align: right;
+    border: none;
+}
+
+.row-label {
+    text-align: right;
+    padding-right: 8px;
 }

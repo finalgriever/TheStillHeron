@@ -12,17 +12,17 @@
 </head>
 <body>
     <div class="site-banner">
+        @Html.ActionLink("The Still Heron", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
         <img src="~/images/Heron Silhouette.png" />
     </div>
     <div class="navbar navbar-fixed-top">
-        <div class="container">
+        <div class="container nav-bar-container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("The Still Heron", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
@@ -36,11 +36,11 @@
     </div>
     <div class="container body-content">
         @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - Jamie Butler</p>
-        </footer>
     </div>
+    <footer>
+        <hr />
+        <p>&copy; @DateTime.Now.Year - Jamie Butler</p>
+    </footer>
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")

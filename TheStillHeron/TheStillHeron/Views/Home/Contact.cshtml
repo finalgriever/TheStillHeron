@@ -1,4 +1,20 @@
 ﻿@{
     ViewBag.Title = "Contact";
 }
-<h2>@ViewBag.Title.</h2>
+<div class="jumbotron">
+    <h2>@ViewBag.Title</h2>
+    <table class="labeled-row-table">
+        <tr>
+            <td class="row-label"><label>Email Address:</label></td>
+            <td class="item">@Model.EmailAddress</td>
+        </tr>
+        <tr>
+            <td class="row-label"><label>LinkedIn: </label></td>
+            <td class="item">
+                <a href="@Model.LinkedInUrl">
+                    <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Jamie Butler's profile on LinkedIn">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
