@@ -81,7 +81,9 @@ C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.R
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.WebPages.Deployment.dll
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.WebPages.dll
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.WebPages.Razor.dll
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\TheStillHeron.Models.dll
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\WebGrease.dll
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.Owin.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.Helpers.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.Mvc.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\System.Web.Optimization.xml
@@ -96,7 +98,6 @@ C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\EntityFramew
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.Owin.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.Owin.Security.xml
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.Owin.Security.Facebook.xml
@@ -108,3 +109,4 @@ C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\Microsoft.Ow
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\obj\Debug\TheStillHeron.csprojResolveAssemblyReference.cache
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\obj\Debug\TheStillHeron.dll
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\obj\Debug\TheStillHeron.pdb
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\TheStillHeron.Models.pdb
