@@ -83,3 +83,6 @@ C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\bin\Debug\
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\obj\Debug\TheStillHeron.Tests.csprojResolveAssemblyReference.cache
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\obj\Debug\TheStillHeron.Tests.dll
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\obj\Debug\TheStillHeron.Tests.pdb
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\bin\Debug\DataModel.dll
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\bin\Debug\TheStillHeron.Models.pdb
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron.Tests\bin\Debug\DataModel.pdb

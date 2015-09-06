@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace TheStillHeron.Models
 {
-    class BlogsModel
+    public class BlogsViewModel
     {
         public IList<BlogModel> Blogs { get; set; }
 
-        public BlogModel RecentBlog
+        public BlogModel LastBlog
         {
             get
             {

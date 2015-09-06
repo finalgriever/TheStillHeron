@@ -110,3 +110,5 @@ C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\obj\Debug\TheSti
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\obj\Debug\TheStillHeron.dll
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\obj\Debug\TheStillHeron.pdb
 C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\TheStillHeron.Models.pdb
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\DataModel.dll
+C:\Users\GRIEVER2\git\TheStillHeron\TheStillHeron\TheStillHeron\bin\DataModel.pdb

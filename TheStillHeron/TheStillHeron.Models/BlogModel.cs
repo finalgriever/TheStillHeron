@@ -17,5 +17,9 @@ namespace TheStillHeron.Models
         public DateTime DatePublished { get; set; }
 
         public int HitCount { get; set; }
+
+        public bool Published { get; set; }
+
+        public IList<TopicModel> Topics { get; set; }
     }
 }

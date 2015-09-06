@@ -1,7 +1,17 @@
-﻿
-@{
-    ViewBag.Title = "Index";
-}
+﻿@model TheStillHeron.Models.BlogModel
 
-<h2>Index</h2>
+<h2>Model.Title</h2>
+<div class="jumbotron">
+    @Model.HtmlContent
+    <div class="published-date">@Model.DatePublished.ToString()</div>
+    <div class="file-under">
+        <p class="file-under">
+            <strong>File Under: </strong>
+            @foreach(TheStillHeron.Models.Topic topic in Model.Topics)
+            {
+                    <a>#@topic.Text</a> 
+            }
+        </p>
+    </div>
+</div>
 
